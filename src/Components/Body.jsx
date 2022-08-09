@@ -9,10 +9,7 @@ function Body() {
           Streamline processes,create team rituals,and
           watch productivity soar.
         </p>
-        <button className='btn'>{
-            <a href="">Learn more </a>}</button>
-
-        
+        <button className='btn'><a href="https://www.google.com/" rel='noreferrer' target={'_blank'}>Learn more </a></button>        
     </div>
   )
 }
