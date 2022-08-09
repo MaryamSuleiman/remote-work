@@ -1,0 +1,49 @@
+
+
+.container{
+  font-family: tahoma;
+  width: 80%;
+  margin: 0 auto;
+}
+.container1 p{
+  color: gray;
+  text-align: center;
+  max-width: 43%;
+}
+.container1 a{
+  text-decoration: none;
+  color: whitesmoke;
+}
+.container1 h2{
+  max-width: 55%;
+}
+
+
+.navbar{
+  display: flex;
+  justify-content:left;
+  align-items: center;
+  
+}
+.container h2{
+  font-size: 4rem;
+  font-style: tahoma;
+  font-weight: bolder;
+}
+.navbar ul{
+  display: flex;
+}
+.navbar li{
+  list-style-type: none;
+  margin-right: 1.8rem;
+  color: gray;
+}
+.btn{
+  width:100px;
+  background-color: black;
+  border-radius: 10px;
+  padding: 10px;
+}
+.navbar h2{
+  font-size: 2rem;
+}
